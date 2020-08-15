@@ -36,7 +36,7 @@ Aqui normalmente eu descrevo para qual a finalidade do projeto desenvolvido.
 * 0.0.0
     * Escala 10/1
 
-## Minhas Redes Sociais , Se você quiser me chame para conversar eu amo fazer amigos e oque eu puder contribuir com meu conhecimento por ter certeza que eu não exitarei.
+## Minhas Redes Sociais , Se você quiser me chame para conversar eu amo fazer amigos e oque eu puder contribuir com meu conhecimento pode ter certeza que eu não exitarei.
 
 <div align="center"> ♥ Desenvolvedor de Sistemas Jr Thiago Carvalho Martins</div>
 
