@@ -1,10 +1,6 @@
-# Thiago Carvalho Martins
-> Olá Seja Bem-Vindo ao meu perfil no github <
+# Prazer meu nome é Thiago Martins !
 
-[![THIAGO][THIAGO]][THIAGO]
-[![CEL][CEL]][CEL]
-
-
+> Seja Bem-Vindo ao meu perfil no github <
 
 ![](4.jpg)
 
