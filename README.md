@@ -54,6 +54,16 @@ Aqui normalmente eu descrevo para qual a finalidade do projeto desenvolvido.
 <a align="center" href="https://api.whatsapp.com/send?phone=5515981384477&text=Ol%C3%A1">[Thiago Carvalho Martins] </a>
 Distribuição do conteudo livre.</div>
 
+/******************************************************************
+* This program is free software: you can redistribute it and/or modify
+* it under the terms of the GNU General Public License as published by
+* the Free Software Foundation, either version 3 of the License, or
+* (at your option) any later version (<https://www.gnu.org/licenses/>).
+* 
+* Criado Orgulhosamente por mim : https://thiagostdio.github.io/site/ 
+* Thiago Carvalho Martins
+******************************************************************/
+
 
 <!-- Markdown link & img dfn's -->
 [XAMARIN]: https://img.shields.io/badge/XAMARIN-TRUE-white
