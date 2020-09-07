@@ -55,6 +55,7 @@ Aqui normalmente eu descrevo para qual a finalidade do projeto desenvolvido.
 Distribuição do conteudo livre.</div>
 
 /******************************************************************
+
 * This program is free software: you can redistribute it and/or modify
 * it under the terms of the GNU General Public License as published by
 * the Free Software Foundation, either version 3 of the License, or
@@ -62,6 +63,7 @@ Distribuição do conteudo livre.</div>
 * 
 * Criado Orgulhosamente por mim : https://thiagostdio.github.io/site/ 
 * Thiago Carvalho Martins
+
 ******************************************************************/
 
 
