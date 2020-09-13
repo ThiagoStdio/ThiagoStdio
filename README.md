@@ -60,8 +60,7 @@ Distribuição do conteudo livre.</div>
 * it under the terms of the GNU General Public License as published by
 * the Free Software Foundation, either version 3 of the License, or
 * (at your option) any later version (<https://www.gnu.org/licenses/>).
-* 
-* Criado Orgulhosamente por mim : https://thiagostdio.github.io/site/ 
+* Criado Orgulhosamente por mim 2020 : https://thiagostdio.github.io/site/ 
 * Thiago Carvalho Martins
 
 ******************************************************************/
