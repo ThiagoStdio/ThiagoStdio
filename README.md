@@ -1,13 +1,10 @@
-# Prazer meu nome é Thiago Martins !
+### Olá, meu nome é [Thiago Martins](https://thiagostdio.github.io/site)  !
 
-> Seja Bem-Vindo ao meu perfil no github <
-
-![](4.jpg)
-
+> Seja Bem-Vindo ao meu perfil no GitHub <
 
 ## Aqui contém Projetos
 
-Arduino:
+[<img align="left" alt="ThiagoStdio | YouTube" width="22px" src="https://https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/arduino.js" />][Arduino]Arduino:
 
 ```sh
 TAG: PROJETO - A ("A" REFERENTE AO ARDUINO) (NÚMERO DO PROJETO) - NOME DO PROJETO
