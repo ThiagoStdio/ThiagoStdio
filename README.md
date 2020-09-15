@@ -1,10 +1,10 @@
-### Olá, meu nome é [Thiago Martins](https://thiagostdio.github.io/site)  !
+## Olá, meu nome é [Thiago Martins](https://thiagostdio.github.io/site)  !
 
 > Seja Bem-Vindo ao meu perfil no GitHub <
 
-### Projetos Contidos Aqui
+## Projetos Contidos Aqui
 
-## Repositório:
+### Repositório:
 
 <img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/arduino.svg" /> Arduino
 
@@ -42,10 +42,14 @@ Descrição do projeto desenvolvido, aqui eu incluo algumas informações para d
 
 
 [Instagram](https://www.instagram.com/thiagostdio/)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
 [LinkedIn](https://www.linkedin.com/in/thiago-c-621365175/)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
 [Facebook](https://www.facebook.com/password.iso.27001/)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+
 [Github](https://www.instagram.com/thiagostdio/)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-[WhatsApp](https://api.whatsapp.com/send?phone=5515981384477&text=Ol%C3%A1)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+
+[[WhatsApp](https://api.whatsapp.com/send?phone=5515981384477&text=Ol%C3%A1)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />]
 
 
 <!-- Markdown link & img dfn's -->
