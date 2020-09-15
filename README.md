@@ -1,12 +1,14 @@
 # Olá, meu nome é [Thiago Martins](https://thiagostdio.github.io/site)  !
 
-## Seja Bem-Vindo ao meu perfil no GitHub <
+## Seja Bem-Vindo ao meu perfil no GitHub :anchor:
+
 
 ---
 
-## Projetos Contidos Aqui
 
-### Repositório:
+# Projetos Contidos Aqui
+
+## Repositório:
 
 <img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/arduino.svg" /> Arduino
 
@@ -25,7 +27,8 @@ TAG: ORDEM DO PROJETO - CLASSIFICAÇÃO - NOME DO EXERCICIO - FACULDADE DO EXERC
 ```sh
 TAG: PROJETO - ID (NÚMERO DO PROJETO) - NOME DO PROJETO
 ```
-<br>
+
+---
 
 ## Documentação do projeto 
 
@@ -34,12 +37,13 @@ TAG: PROJETO - ID (NÚMERO DO PROJETO) - NOME DO PROJETO
 ```sh
 Descrição do projeto desenvolvido, aqui eu incluo algumas informações para descrever o projeto.
 ```
-
-
+---
 
 ## Versionamento do Projeto
 
 :pushpin: * Número da versão atual do documento especificido.
+
+---
 
 # Cartão Visita
 
@@ -58,6 +62,7 @@ Descrição do projeto desenvolvido, aqui eu incluo algumas informações para d
 
 [WhatsApp](https://api.whatsapp.com/send?phone=5515981384477&text=Ol%C3%A1)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 
+---
 
 <!-- Markdown link & img dfn's -->
 [XAMARIN]: https://img.shields.io/badge/XAMARIN-TRUE-white
