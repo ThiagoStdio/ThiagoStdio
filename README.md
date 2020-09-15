@@ -1,6 +1,8 @@
 # Olá, meu nome é [Thiago Martins](https://thiagostdio.github.io/site)  !
 
-> Seja Bem-Vindo ao meu perfil no GitHub <
+## Seja Bem-Vindo ao meu perfil no GitHub <
+
+--
 
 ## Projetos Contidos Aqui
 
@@ -23,6 +25,7 @@ TAG: ORDEM DO PROJETO - CLASSIFICAÇÃO - NOME DO EXERCICIO - FACULDADE DO EXERC
 ```sh
 TAG: PROJETO - ID (NÚMERO DO PROJETO) - NOME DO PROJETO
 ```
+<br>
 
 ## Documentação do projeto 
 
@@ -31,6 +34,8 @@ TAG: PROJETO - ID (NÚMERO DO PROJETO) - NOME DO PROJETO
 ```sh
 Descrição do projeto desenvolvido, aqui eu incluo algumas informações para descrever o projeto.
 ```
+
+
 
 ## Versionamento do Projeto
 
