@@ -1,4 +1,4 @@
-## Olá, meu nome é [Thiago Martins](https://thiagostdio.github.io/site)  !
+# Olá, meu nome é [Thiago Martins](https://thiagostdio.github.io/site)  !
 
 > Seja Bem-Vindo ao meu perfil no GitHub <
 
@@ -34,11 +34,11 @@ Descrição do projeto desenvolvido, aqui eu incluo algumas informações para d
 
 ## Versionamento do Projeto
 
-:pushpin: * 0.0.0
+:pushpin: * Número da versão atual do documento especificido.
 
 # Cartão Visita
 
-## Minhas Redes Sociais,  me chame para conversar eu amo fazer amigos e o'que eu puder contribuir com meu conhecimento pode ter certeza que eu não exitarei.
+## Me adicione nas redes sociais e de um toque para mim, amo fazer amigos, e o'que eu puder contribuir estarei a disposição.
 
 ### <div align="center">Desenvolvedor de Sistemas Jr Thiago Carvalho Martins</div>
 
