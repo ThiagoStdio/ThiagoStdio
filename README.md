@@ -8,6 +8,8 @@
 
 # Projetos Contidos Aqui
 
+
+
 ## Repositório:
 
 <img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/arduino.svg" /> Arduino
@@ -41,7 +43,7 @@ Descrição do projeto desenvolvido, aqui eu incluo algumas informações para d
 
 ## Versionamento do Projeto
 
-:pushpin: * Número da versão atual do documento especificido.
+:pushpin: * Número da versão atual do documento especificado.
 
 ---
 
@@ -83,4 +85,9 @@ Descrição do projeto desenvolvido, aqui eu incluo algumas informações para d
 [THIAGO]: https://img.shields.io/badge/THIAGO-MARTINS-Flag-green
 [CEL]: https://img.shields.io/badge/(15)-981384477-Flag-blue
 
-
+<!-- :construction:
+Emojis [https://gist.github.com/rxaviers/7360908] 
+BadgesOnline [https://github.com/Ileriayo/markdown-badges] 
+Icones [https://simpleicons.org/] 
+Badges [https://shields.io/]
+-->
