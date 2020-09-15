@@ -2,7 +2,9 @@
 
 > Seja Bem-Vindo ao meu perfil no GitHub <
 
-## Aqui contém Projetos
+### Aqui contém Projetos
+
+## Projetos:
 
 <img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/arduino.svg" /> Arduino
 
@@ -10,43 +12,45 @@
 TAG: PROJETO - A ("A" REFERENTE AO ARDUINO) (NÚMERO DO PROJETO) - NOME DO PROJETO
 ```
 
-Excercicios Resolvidos:
+:closed_book: Exercicios Desenvolvidos
 
 ```sh
 TAG: ORDEM DO PROJETO - CLASSIFICAÇÃO - NOME DO EXERCICIO - FACULDADE DO EXERCICIO
 ```
 
-Projetos desenvolvidos:
+:orange_book: Projetos desenvolvidos:
 
 ```sh
 TAG: PROJETO - ID (NÚMERO DO PROJETO) - NOME DO PROJETO
 ```
 
-## Descrição/Documentação do projeto 
+## Documentação do projeto 
+
+:page_facing_up: Descrição:
 
 ```sh
-Aqui normalmente eu descrevo para qual a finalidade do projeto desenvolvido.
+Descrição do projeto desenvolvido, aqui eu incluo algumas informações para descrever o projeto.
 ```
 
 ## Versionamento do Projeto
 
-* 0.0.0
-    * Escala 10/1
+:pushpin: * 0.0.0
 
 ## Minhas Redes Sociais , Se você quiser me chame para conversar eu amo fazer amigos e oque eu puder contribuir com meu conhecimento pode ter certeza que eu não exitarei.
 
 <div align="center"> ♥ Desenvolvedor de Sistemas Jr Thiago Carvalho Martins</div>
 
-[@ThiagoStdio](https://www.instagram.com/thiagostdio/) – Instagram</br>
 
-[Thiago Carvalho DevOps](https://www.linkedin.com/in/thiago-c-621365175/) – LinkedIn</br>
+[@ThiagoStdio](https://www.instagram.com/thiagostdio/)[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[Thiago Carvalho Martins](https://www.facebook.com/password.iso.27001/) – Facebook </br>
+[Thiago Carvalho DevOps](https://www.linkedin.com/in/thiago-c-621365175/) – Conecte-se ao meu LinkedIn</br>
 
-[Repositório GitHub](https://github.com/ThiagoStdio?tab=repositories) – Repositório</br>
+[Thiago Carvalho Martins](https://www.facebook.com/password.iso.27001/) – Me adicione no Facebook </br>
+
+[Repositório GitHub](https://github.com/ThiagoStdio) – Veja meu Perfil no Github </br>
 
 
-## Contribuição
+
 <div align="center"></div>
 <a align="center" href="https://api.whatsapp.com/send?phone=5515981384477&text=Ol%C3%A1">[Thiago Carvalho Martins] </a>
 Distribuição do conteudo livre.</div>
