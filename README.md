@@ -2,9 +2,9 @@
 
 > Seja Bem-Vindo ao meu perfil no GitHub <
 
-### Aqui contém Projetos
+### Projetos Contidos Aqui
 
-## Projetos:
+## Repositório:
 
 <img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/arduino.svg" /> Arduino
 
@@ -36,35 +36,16 @@ Descrição do projeto desenvolvido, aqui eu incluo algumas informações para d
 
 :pushpin: * 0.0.0
 
-## Minhas Redes Sociais , Se você quiser me chame para conversar eu amo fazer amigos e oque eu puder contribuir com meu conhecimento pode ter certeza que eu não exitarei.
+## Minhas Redes Sociais,  me chame para conversar eu amo fazer amigos e o'que eu puder contribuir com meu conhecimento pode ter certeza que eu não exitarei.
 
-<div align="center"> ♥ Desenvolvedor de Sistemas Jr Thiago Carvalho Martins</div>
-
-
-[@ThiagoStdio](https://www.instagram.com/thiagostdio/)[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[Thiago Carvalho DevOps](https://www.linkedin.com/in/thiago-c-621365175/) – Conecte-se ao meu LinkedIn</br>
-
-[Thiago Carvalho Martins](https://www.facebook.com/password.iso.27001/) – Me adicione no Facebook </br>
-
-[Repositório GitHub](https://github.com/ThiagoStdio) – Veja meu Perfil no Github </br>
+<div align="center">Desenvolvedor de Sistemas Jr Thiago Carvalho Martins</div>
 
 
-
-<div align="center"></div>
-<a align="center" href="https://api.whatsapp.com/send?phone=5515981384477&text=Ol%C3%A1">[Thiago Carvalho Martins] </a>
-Distribuição do conteudo livre.</div>
-
-/******************************************************************
-
-* This program is free software: you can redistribute it and/or modify
-* it under the terms of the GNU General Public License as published by
-* the Free Software Foundation, either version 3 of the License, or
-* (at your option) any later version (<https://www.gnu.org/licenses/>).
-* Criado Orgulhosamente por mim 2020 : https://thiagostdio.github.io/site/ 
-* Thiago Carvalho Martins
-
-******************************************************************/
+[Instagram](https://www.instagram.com/thiagostdio/)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+[LinkedIn](https://www.linkedin.com/in/thiago-c-621365175/)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+[Facebook](https://www.facebook.com/password.iso.27001/)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+[Github](https://www.instagram.com/thiagostdio/)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+[WhatsApp](https://api.whatsapp.com/send?phone=5515981384477&text=Ol%C3%A1)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 
 
 <!-- Markdown link & img dfn's -->
