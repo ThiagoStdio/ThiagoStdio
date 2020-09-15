@@ -1,12 +1,15 @@
 # Olá, meu nome é [Thiago Martins](https://thiagostdio.github.io/site)  !
-
-## Seja Bem-Vindo ao meu perfil no GitHub :anchor:
-
 <br>
 <img align="Right" alt="ThiagoStdio" height="100px" width="100px" src="https://avatars0.githubusercontent.com/u/43300353?s=400&u=ba9954dccd5918b478cb783bd40d8b589019adb9&v=4" />
 <br>
-
 ---
+
+## Seja Bem-Vindo ao meu perfil no GitHub :anchor:
+
+
+
+
+
 
 
 # Projetos Contidos Aqui
