@@ -20,7 +20,7 @@ TAG: PROJETO - A ("A" REFERENTE AO ARDUINO) (NÚMERO DO PROJETO) - NOME DO PROJE
 TAG: ORDEM DO PROJETO - CLASSIFICAÇÃO - NOME DO EXERCICIO - FACULDADE DO EXERCICIO
 ```
 
-:orange_book: Projetos desenvolvidos:
+:orange_book: Projetos Desenvolvidos:
 
 ```sh
 TAG: PROJETO - ID (NÚMERO DO PROJETO) - NOME DO PROJETO
@@ -28,20 +28,18 @@ TAG: PROJETO - ID (NÚMERO DO PROJETO) - NOME DO PROJETO
 
 ---
 
-## Documentação do projeto 
+## Documentação dos projetos
 
 :page_facing_up: Descrição:
 
 ```sh
-Descrição do projeto desenvolvido, aqui eu incluo algumas informações para descrever o projeto.
+Descrição dos projetos desenvolvidos, aqui eu incluo algumas informações para descrever o projeto.
 ```
 ---
 
-## Versionamento do Projeto
-
-:pushpin: * Número da versão atual do documento especificado.
-
----
+<!-- ## Versionamento do Projeto
+:pushpin: * Versionamento dos documentos
+-->
 
 # Cartão Visita
 
