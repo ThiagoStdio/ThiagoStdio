@@ -7,7 +7,7 @@
 
 [Arduino]: https://https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/arduino.svg
 
-[<img align="left" alt="ThiagoStdio" width="22px" src="https://https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/arduino.svg" />][Arduino]
+[<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/arduino.svg" />][Arduino]
 
 ```sh
 TAG: PROJETO - A ("A" REFERENTE AO ARDUINO) (NÚMERO DO PROJETO) - NOME DO PROJETO
