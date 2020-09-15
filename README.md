@@ -49,7 +49,7 @@ Descrição do projeto desenvolvido, aqui eu incluo algumas informações para d
 
 [Github](https://www.instagram.com/thiagostdio/)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 
-[[WhatsApp](https://api.whatsapp.com/send?phone=5515981384477&text=Ol%C3%A1)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />]
+[WhatsApp](https://api.whatsapp.com/send?phone=5515981384477&text=Ol%C3%A1)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 
 
 <!-- Markdown link & img dfn's -->
