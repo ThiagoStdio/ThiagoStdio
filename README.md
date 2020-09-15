@@ -49,6 +49,8 @@ Descrição do projeto desenvolvido, aqui eu incluo algumas informações para d
 
 # Cartão Visita
 
+![](bs.png)
+
 ## Me adicione nas redes sociais e de um toque para mim, amo fazer amigos, e o'que eu puder contribuir estarei a disposição.
 
 ### <div align="center">Desenvolvedor de Sistemas Jr Thiago Carvalho Martins</div>
