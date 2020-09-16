@@ -1,6 +1,11 @@
 # Olá, meu nome é [Thiago Martins](https://thiagostdio.github.io/site) 
 
-<img align="right" alt="ThiagoStdio Stats" src="https://github-readme-stats.thiagostdio.vercel.app/api?username=ThiagoStdio&show_icons=true&hide_border=true" />
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="ThiagoStdio Stats" src="https://github-readme-stats.thiagostdio.vercel.app/api?username=ThiagoStdio&show_icons=true&hide_border=true" />
+
+</details>
 
 ## Seja Bem-Vindo ao meu perfil no GitHub :anchor:
 
@@ -64,12 +69,7 @@ Descrição dos projetos desenvolvidos, aqui eu incluo algumas informações par
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="ThiagoStdio Stats" src="https://github-readme-stats.thiagostdio.vercel.app/api?username=ThiagoStdio&show_icons=true&hide_border=true" />
-
-</details>
 
 <!-- Markdown link & img dfn's -->
 [XAMARIN]: https://img.shields.io/badge/XAMARIN-TRUE-white
