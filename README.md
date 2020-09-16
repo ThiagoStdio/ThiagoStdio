@@ -64,7 +64,9 @@ Descrição dos projetos desenvolvidos, aqui eu incluo algumas informações par
 
 ![](assets/Card.png)
 
-<img align="left" alt="ThiagoStdio" width="800px" src="https://raw.githubusercontent.com/ThiagoStdio/site/master/bs.png" />
+<img align="left" alt="ThiagoStdio" width="700px" src="https://raw.githubusercontent.com/ThiagoStdio/ThiagoStdio/master/assets/Card.png" />
+
+<br/>
 
 ## Me adicione nas redes sociais e de um toque para mim, amo fazer amigos, e o'que eu puder contribuir estarei a disposição.
 
