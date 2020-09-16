@@ -86,7 +86,7 @@ Descrição dos projetos desenvolvidos, aqui eu incluo algumas informações par
 
 ---
 
-## <div align="center"> <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />: GitHub - Thiago Carvalho Martins 2020 .</div>
+## <div align="center"> <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> GitHub - Thiago Carvalho Martins 2020 .</div>
 
 
 
