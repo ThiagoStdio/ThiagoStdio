@@ -33,13 +33,13 @@
 TAG: PROJETO - A ("A" REFERENTE AO ARDUINO) (NÚMERO DO PROJETO) - NOME DO PROJETO
 ```
 
-:closed_book: Exercicios Desenvolvidos
+:round_pushpin: Exercicios Desenvolvidos
 
 ```sh
 TAG: ORDEM DO PROJETO - CLASSIFICAÇÃO - NOME DO EXERCICIO - FACULDADE DO EXERCICIO
 ```
 
-:orange_book: Projetos Desenvolvidos:
+:round_pushpin: Projetos Desenvolvidos:
 
 ```sh
 TAG: PROJETO - ID (NÚMERO DO PROJETO) - NOME DO PROJETO
