@@ -1,5 +1,7 @@
 # Olá, meu nome é [Thiago Martins](https://thiagostdio.github.io/site) 
 
+## Seja Bem-Vindo ao meu perfil no GitHub :anchor:
+
 <details>
   <summary>:zap: Github Stats</summary>
 
@@ -7,9 +9,7 @@
   
 </details>
 
-<br>
-
-## Seja Bem-Vindo ao meu perfil no GitHub :anchor:
+<br/>
 
 ---
 
