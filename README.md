@@ -71,7 +71,7 @@ Descrição dos projetos desenvolvidos, aqui eu incluo algumas informações par
 
 ---
 
-## Me adicione nas redes sociais e de um toque para mim, amo fazer amigos, e o'que eu puder contribuir estarei a disposição.
+## <div align="center">Me adicione nas redes sociais e de um toque para mim, amo fazer amigos, e o'que eu puder contribuir estarei a disposição.</div>
 
 ### <div align="center">Desenvolvedor de Sistemas Jr Thiago Carvalho Martins</div>
 
