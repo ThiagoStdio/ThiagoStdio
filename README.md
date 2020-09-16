@@ -60,7 +60,7 @@ Descrição dos projetos desenvolvidos, aqui eu incluo algumas informações par
 :pushpin: * Versionamento dos documentos
 -->
 
-# Cartão Visita
+# :ghost: Cartão Visita
 
 <img align="center" alt="ThiagoStdio | Card " width="700px" src="https://raw.githubusercontent.com/ThiagoStdio/ThiagoStdio/master/assets/Card.png" />
 
