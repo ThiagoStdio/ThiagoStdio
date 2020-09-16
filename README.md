@@ -64,7 +64,7 @@ Descrição dos projetos desenvolvidos, aqui eu incluo algumas informações par
 
 ![](assets/Card.png)
 
-<img align="left" alt="ThiagoStdio" width="700px" src="https://raw.githubusercontent.com/ThiagoStdio/ThiagoStdio/master/assets/Card.png" />
+<img align="center" alt="ThiagoStdio" width="700px" src="https://raw.githubusercontent.com/ThiagoStdio/ThiagoStdio/master/assets/Card.png" />
 
 <br/>
 <br/>
