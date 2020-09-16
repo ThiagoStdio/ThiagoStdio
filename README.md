@@ -4,7 +4,7 @@
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="ThiagoStdio Stats" src="https://github-readme-stats.thiagostdio.vercel.app/api?username=ThiagoStdio&show_icons=true&hide_border=true" />
-
+  <br>
 </details>
 
 ## Seja Bem-Vindo ao meu perfil no GitHub :anchor:
