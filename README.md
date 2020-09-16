@@ -63,7 +63,8 @@ Descrição dos projetos desenvolvidos, aqui eu incluo algumas informações par
 # Cartão Visita
 
 ![](assets/Card.png)
-<img align="left" alt="ThiagoStdio" width="200px" src="assets/Card.png" />
+
+<img align="left" alt="ThiagoStdio" width="800px" src="assets/Card.png" />
 
 ## Me adicione nas redes sociais e de um toque para mim, amo fazer amigos, e o'que eu puder contribuir estarei a disposição.
 
