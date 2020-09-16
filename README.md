@@ -1,4 +1,4 @@
-# Olá, meu nome é [Thiago Martins](https://thiagostdio.github.io/site) <img align="left" alt="ThiagoStdio Stats" src="https://github-readme-stats.thiagostdio.vercel.app/api?username=ThiagoStdio&show_icons=true&hide_border=true" />  !
+# Olá, meu nome é [Thiago Martins](https://thiagostdio.github.io/site) <img align="right" alt="ThiagoStdio Stats" height="200px" width="150" src="https://github-readme-stats.thiagostdio.vercel.app/api?username=ThiagoStdio&show_icons=true&hide_border=true" />  !
 
 ## Seja Bem-Vindo ao meu perfil no GitHub :anchor:
 
