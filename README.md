@@ -62,6 +62,13 @@ Descrição dos projetos desenvolvidos, aqui eu incluo algumas informações par
 
 ---
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="ThiagoStdio Stats" src="https://github-readme-stats.thiagostdio.vercel.app/api?username=ThiagoStdio&show_icons=true&hide_border=true" />
+
+</details>
+
 <!-- Markdown link & img dfn's -->
 [XAMARIN]: https://img.shields.io/badge/XAMARIN-TRUE-white
 [Teste de usabilidade]: https://img.shields.io/badge/TestedeUsabilidade-OK-black
