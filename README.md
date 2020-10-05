@@ -96,7 +96,7 @@ Descrição dos projetos desenvolvidos, aqui eu incluo algumas informações par
 
 [Facebook](https://www.facebook.com/password.iso.27001/)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 
-[Github](https://www.instagram.com/thiagostdio/)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+[Github](https://github.com/ThiagoStdio)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 
 [WhatsApp](https://api.whatsapp.com/send?phone=5515981384477&text=Ol%C3%A1)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 
