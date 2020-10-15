@@ -6,7 +6,7 @@
   
   <summary>:zap: Meu Status</summary>
 
-  <img align="center" alt="ThiagoStdio Stats" src="https://github-readme-stats.thiagostdio.vercel.app/api?username=ThiagoStdio&show_icons=true&hide_border=true" />
+  <img align="center" alt="ThiagoStdio Stats" src="github-readme-stats-j1e89y6km.vercel.app/api?username=ThiagoStdio&show_icons=true&hide_border=true" />
   
 </details>
 
