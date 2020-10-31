@@ -68,7 +68,7 @@ TAG: PROJETO - ID (NÚMERO DO PROJETO) - NOME DO PROJETO
 :page_facing_up: Descrição:
 
 ```sh
-Descrição dos projetos desenvolvidos, aqui eu incluo algumas informações para descrever o projeto.
+Descrição dos projetos pré instruidos, aqui eu incluo algumas informações para descrever o projeto.
 ```
 ---
 
