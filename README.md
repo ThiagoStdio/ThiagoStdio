@@ -49,10 +49,10 @@
 TAG: PROJETO - A ("A" REFERENTE AO ARDUINO) (NÚMERO DO PROJETO) - NOME DO PROJETO
 ```
 
-:round_pushpin: Exercicios Desenvolvidos
+:round_pushpin: Exercícios Desenvolvidos
 
 ```sh
-TAG: ORDEM DO PROJETO - CLASSIFICAÇÃO - NOME DO EXERCICIO - FACULDADE DO EXERCICIO
+TAG: ORDEM DO PROJETO - CLASSIFICAÇÃO - NOME DO EXERCÍCIO - FACULDADE DO EXERCÍCIO
 ```
 
 :round_pushpin: Projetos Desenvolvidos:
