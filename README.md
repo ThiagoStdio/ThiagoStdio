@@ -38,6 +38,7 @@
 <br/>
 
 ---
+---
 
 # Projetos Contidos Aqui
 
@@ -62,6 +63,7 @@ TAG: PROJETO - ID (NÚMERO DO PROJETO) - NOME DO PROJETO
 ```
 
 ---
+---
 
 ## Documentação dos projetos
 
@@ -78,9 +80,14 @@ Descrição dos projetos pré instruidos, aqui eu incluo algumas informações p
 :page_facing_up: Portfólio 2020:
 
 ```sh
-Meu portfólio: [Portfolio](http://www.stdiocomunicacao.tk/) 
+Meu portfólio:  
+```
+[Portfolio](http://www.stdiocomunicacao.tk/)
+```sh
 Escrito em linguagens front-end
 ```
+
+
 ---
 
 
@@ -97,9 +104,10 @@ Escrito em linguagens front-end
 
 ---
 
-## <div align="center">Me adicione nas redes sociais e de um toque para mim, podemos tomar um café talvez, e o'que eu puder contribuir estarei a disposição.</div>
+## <div align="center">Me siga nas redes sociais, estou disponível para trabalhos freelances podemos tomar um café talvez, e o'que eu puder contribuir estarei a disposição.</div>
 
 ### <div align="center">Desenvolvedor de Sistemas Jr Thiago Carvalho Martins</div>
+## <div align="center">Em busca de recolocação no mercado de trabalho</div>
 
 
 [Instagram](https://www.instagram.com/stdio.comunicacao/)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
