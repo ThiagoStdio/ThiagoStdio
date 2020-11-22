@@ -80,14 +80,8 @@ Descrição dos projetos pré instruidos, aqui eu incluo algumas informações p
 :page_facing_up: Portfólio 2020:
 
 ```sh
-Meu portfólio:  
+Meu portfólio: [Portfolio](http://www.stdiocomunicacao.tk/)
 ```
-[Portfolio](http://www.stdiocomunicacao.tk/)
-```sh
-Escrito em linguagens front-end
-```
-
-
 ---
 
 
