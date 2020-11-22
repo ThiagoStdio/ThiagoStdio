@@ -71,6 +71,18 @@ TAG: PROJETO - ID (NÚMERO DO PROJETO) - NOME DO PROJETO
 Descrição dos projetos pré instruidos, aqui eu incluo algumas informações para descrever o projeto.
 ```
 ---
+---
+
+## Portfólio
+
+:page_facing_up: Portfólio 2020:
+
+```sh
+Meu portfólio: [Portfolio](http://www.stdiocomunicacao.tk/) 
+Escrito em linguagens front-end
+```
+---
+
 
 <!-- ## Versionamento do Projeto
 :pushpin: * Versionamento dos documentos
@@ -78,7 +90,7 @@ Descrição dos projetos pré instruidos, aqui eu incluo algumas informações p
 
 # :ghost: Cartão Visita
 
-<img align="center" alt="ThiagoStdio | Card " width="700px" src="https://raw.githubusercontent.com/ThiagoStdio/ThiagoStdio/master/assets/Card.png" />
+<img align="center" alt="ThiagoStdio | Card " width="700px" src="https://github.com/ThiagoStdio/ThiagoStdio/blob/master/assets/business%20card2.png?raw=true" />
 
 <br/>
 <br/>
@@ -98,7 +110,9 @@ Descrição dos projetos pré instruidos, aqui eu incluo algumas informações p
 
 [Github](https://github.com/ThiagoStdio)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 
-[WhatsApp](http://www.stdiocomunicacao.tk/" />
+[WhatsApp](https://wa.me/message/WX34SEEN4FHPP1)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+
+[Portfólio](https://stdioportfolio.tk)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
 
 ---
 
