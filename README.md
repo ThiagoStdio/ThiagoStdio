@@ -57,12 +57,16 @@ Projetos de robótica avançada, Science, Technology, Engineering e Mathematics 
 Exercicíos de fixação e projetos para expansão das atividades comerciais.
 ```
 
-### :raising_hand: TAGs
+### :raising_hand: Categorias
 
 ```sh
-TAG: PROJETO - NOME DO PROJETO-id (NÚMERO DO PROJETO)
-TAG: ARDUINO - NOME DO PROJETO-id (NÚMERO DA SKETCH)
-TAG: EXERCICIO - NOME DO PROJETO-id (FACULDADE DO EXERCÍCIO)
+PROJETOS     NOME DO PROJETO-id (NÚMERO DO PROJETO)
+```
+```sh
+AUTOMAÇÃO     NOME DO PROJETO-id (NÚMERO DA SKETCH)
+```
+```sh
+EXERCICIO   NOME DO PROJETO-id (FACULDADE DO EXERCÍCIO)
 ```
 
 ---
@@ -101,10 +105,9 @@ Meu portfólio: [Portfolio](http://www.stdiocomunicacao.tk/)
 
 ---
 
-## <div align="center">Me siga nas redes sociais, estou disponível para trabalhos freelances podemos tomar um café talvez, e o'que eu puder contribuir estarei a disposição.</div>
+## <div align="center">Me siga nas redes sociais, estou disponível para trabalhos freelances ! Podemos fazer um coffe-break, e o'que eu puder contribuir estarei a disposição.</div>
 
 ### <div align="center">Desenvolvedor de Sistemas Jr Thiago Carvalho Martins</div>
-## <div align="center">Em busca de recolocação no mercado de trabalho</div>
 
 
 [Instagram](https://www.instagram.com/stdio.comunicacao/)<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
