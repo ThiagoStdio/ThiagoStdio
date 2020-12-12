@@ -82,9 +82,9 @@ Descrição dos projetos pré instruidos, aqui eu incluo algumas informações p
 ---
 ---
 
-## :octocat: Sobre [mim](http://www.stdioportfolio.tk)
+## :octocat: Sobre mim
 
-:page_facing_up: Portfólio 2020:
+:school_satchel: [Portfólio 2020:](http://www.stdioportfolio.tk)
 
 ```sh
 Sou desenvolvedor de sistemas formado e técnico em mecatrônica. CEO do departamento de SEO e Marketing Stdio Comunicação.
