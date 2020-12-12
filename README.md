@@ -1,10 +1,10 @@
-# Olá, meu nome é [Thiago Martins](http://www.stdiocomunicacao.tk/) 
+# Olá, meu nome é [Thiago Martins](http://www.stdiocomunicacao.tk/) !
 
-## Seja Bem-Vindo ao meu perfil no GitHub :anchor:
+## Seja Bem-Vindo ao meu perfil no GitHub <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <details>
   
-  <summary>:zap: Meu Status</summary>
+  <summary>:zap: Status do Repositório</summary>
 
   <img align="center" alt="ThiagoStdio Stats" src="https://github-readme-stats.thiagostdio.vercel.app/api?username=ThiagoStdio&show_icons=true&graywhite&show_icons=true" />
   
@@ -44,10 +44,12 @@
 
 ## Repositório:
 
-<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/arduino.svg" /> Arduino
+### Arduino
+
+<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/arduino.svg" /> 
 
 ```sh
-TAG: PROJETO - A ("A" REFERENTE AO ARDUINO) (NÚMERO DO PROJETO) - NOME DO PROJETO
+TAG: NOME DO PROJETO - DESCRIÇÃO - FACULDADE
 ```
 
 :round_pushpin: Exercícios Desenvolvidos
