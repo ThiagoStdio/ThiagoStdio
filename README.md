@@ -1,6 +1,7 @@
 # Olá, meu nome é [Thiago Martins](http://www.stdiocomunicacao.tk/) !
 
 ## Seja Bem-Vindo ao meu perfil no GitHub <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<br/>
 
 <details>
   
@@ -9,7 +10,7 @@
   <img align="center" alt="ThiagoStdio Stats" src="https://github-readme-stats.thiagostdio.vercel.app/api?username=ThiagoStdio&show_icons=true&graywhite&show_icons=true" />
   
 </details>
-
+<br/>
 <details>
   
   <summary>:zap: Ferramentas e Linguagens </summary>
@@ -42,7 +43,7 @@
 
 # Projetos Contidos Aqui
 
-## Repositório:
+## Repositório
 
 ### <img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/arduino.svg" /> Robótica
 
@@ -60,13 +61,13 @@ Exercicíos de fixação e projetos para expansão das atividades comerciais.
 ### :raising_hand: Categorias
 
 ```sh
-PROJETOS     NOME DO PROJETO-id (NÚMERO DO PROJETO)
+PROJETOS    NOME DO PROJETO-id (NÚMERO DO PROJETO)
 ```
 ```sh
-AUTOMAÇÃO     NOME DO PROJETO-id (NÚMERO DA SKETCH)
+AUTOMAÇÃO   NOME DO PROJETO-id (NÚMERO DA SKETCH)
 ```
 ```sh
-EXERCICIO   NOME DO PROJETO-id (FACULDADE DO EXERCÍCIO)
+EXERCÍCIO   NOME DO PROJETO-id (FACULDADE DO EXERCÍCIO)
 ```
 
 ---
@@ -74,7 +75,7 @@ EXERCICIO   NOME DO PROJETO-id (FACULDADE DO EXERCÍCIO)
 
 ## :page_facing_up: Documentação dos projetos
 
-### Descrição:
+### Descrição
 
 ```sh
 Descrição dos projetos pré instruidos, aqui eu incluo algumas informações para descrever o projeto.
@@ -84,17 +85,12 @@ Descrição dos projetos pré instruidos, aqui eu incluo algumas informações p
 
 ## :octocat: Sobre mim
 
-### :school_satchel: [Portfólio 2020:](http://www.stdioportfolio.tk)
+### :school_satchel: [Portfólio 2021](http://www.stdioportfolio.tk)
 
 ```sh
 Sou desenvolvedor de sistemas formado e técnico em mecatrônica. CEO do departamento de SEO e Marketing Stdio Comunicação.
 ```
 ---
-
-
-<!-- ## Versionamento do Projeto
-:pushpin: * Versionamento dos documentos
--->
 
 # :ghost: Cartão Visita
 
