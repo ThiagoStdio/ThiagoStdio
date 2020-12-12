@@ -91,7 +91,7 @@ Meu portfólio: [Portfolio](http://www.stdiocomunicacao.tk/)
 
 # :ghost: Cartão Visita
 
-<img align="center" alt="ThiagoStdio | Card " width="700px" src="https://github.com/ThiagoStdio/ThiagoStdio/blob/master/assets/business%20card2.png?raw=true" />
+<img align="center" alt="ThiagoStdio | Card " width="700px" src="https://github.com/ThiagoStdio/ThiagoStdio/blob/master/assets/Business.png?raw=true" />
 
 <br/>
 <br/>
