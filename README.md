@@ -103,7 +103,7 @@ Sou desenvolvedor de sistemas formado e técnico em mecatrônica. CEO do departa
 
 ## <div align="center">Me siga nas redes sociais, estou disponível para trabalhos freelances ! Podemos fazer um coffe-break, e o'que eu puder contribuir estarei a disposição.</div>
 
-### <div align="center">Desenvolvedor de Sistemas Jr Thiago Carvalho Martins</div>
+### <div align="center">Desenvolvedor de Sistemas Thiago Carvalho Martins</div>
 
 
 [Instagram](https://www.instagram.com/stdio.comunicacao/)[<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/stdio.comunicacao/)
@@ -120,7 +120,7 @@ Sou desenvolvedor de sistemas formado e técnico em mecatrônica. CEO do departa
 
 ---
 
-## <div align="center"> <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> GitHub - Thiago Carvalho Martins 2020 .</div>
+## <div align="center"> <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> GitHub - Thiago Carvalho Martins 2020</div>
 
 
 
