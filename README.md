@@ -44,32 +44,33 @@
 
 ## Repositório:
 
-### Arduino
+### <img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/arduino.svg" /> Robótica
 
-<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/arduino.svg" /> 
 
 ```sh
-TAG: NOME DO PROJETO - DESCRIÇÃO - FACULDADE
+Projetos de robótica avançada, Science, Technology, Engineering e Mathematics (STEM).
 ```
 
-:round_pushpin: Exercícios Desenvolvidos
+### :ocean: Exercícios e Projetos
 
 ```sh
-TAG: ORDEM DO PROJETO - CLASSIFICAÇÃO - NOME DO EXERCÍCIO - FACULDADE DO EXERCÍCIO
+Exercicíos de fixação e projetos para expansão das atividades comerciais.
 ```
 
-:round_pushpin: Projetos Desenvolvidos:
+### :raising_hand: TAGs
 
 ```sh
-TAG: PROJETO - ID (NÚMERO DO PROJETO) - NOME DO PROJETO
+TAG: PROJETO - NOME DO PROJETO-id (NÚMERO DO PROJETO)
+TAG: ARDUINO - NOME DO PROJETO-id (NÚMERO DA SKETCH)
+TAG: EXERCICIO - NOME DO PROJETO-id (FACULDADE DO EXERCÍCIO)
 ```
 
 ---
 ---
 
-## Documentação dos projetos
+## :page_facing_up: Documentação dos projetos
 
-:page_facing_up: Descrição:
+### Descrição:
 
 ```sh
 Descrição dos projetos pré instruidos, aqui eu incluo algumas informações para descrever o projeto.
@@ -77,7 +78,7 @@ Descrição dos projetos pré instruidos, aqui eu incluo algumas informações p
 ---
 ---
 
-## Portfólio
+## :octocat: Portfólio
 
 :page_facing_up: Portfólio 2020:
 
