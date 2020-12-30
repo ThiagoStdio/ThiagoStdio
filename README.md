@@ -1,4 +1,4 @@
-# Olá, meu nome é [Thiago Martins](http://www.stdiocomunicacao.tk/) !
+# Olá, meu nome é [Thiago Martins](http://www.stdio.online) !
 
 ## Seja Bem-Vindo ao meu perfil no GitHub <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br/>
@@ -85,7 +85,7 @@ Descrição dos projetos pré instruidos, aqui eu incluo algumas informações p
 
 ## :octocat: Sobre mim
 
-### :school_satchel: [Portfólio 2021](http://www.stdioportfolio.tk)
+### :school_satchel: [Portfólio 2021](http://stdio.online/portfolio.html)
 
 ```sh
 Sou desenvolvedor de sistemas formado e técnico em mecatrônica. CEO do departamento de SEO e Marketing Stdio Comunicação.
@@ -94,7 +94,7 @@ Sou desenvolvedor de sistemas formado e técnico em mecatrônica. CEO do departa
 
 # :ghost: Cartão Visita
 
-<img align="center" alt="ThiagoStdio | Card " width="700px" src="https://github.com/ThiagoStdio/ThiagoStdio/blob/master/assets/catsa.jpg?raw=true" />
+<img align="center" alt="ThiagoStdio | Card " width="700px" src="https://github.com/ThiagoStdio/ThiagoStdio/blob/master/assets/catsa2.png?raw=true" />
 
 <br/>
 <br/>
@@ -116,7 +116,7 @@ Sou desenvolvedor de sistemas formado e técnico em mecatrônica. CEO do departa
 
 [WhatsApp](https://wa.me/message/WX34SEEN4FHPP1)[<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://wa.me/message/WX34SEEN4FHPP1)
 
-[Portfólio](https://stdioportfolio.tk)[<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />](https://stdioportfolio.tk)
+[Portfólio](http://stdio.online/portfolio.html)[<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />](http://stdio.online/portfolio.html)
 
 ---
 
